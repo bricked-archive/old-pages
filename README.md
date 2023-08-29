@@ -37,4 +37,5 @@ npm run build # build site to ./dist/
 ### Deploy to GitHub pages
 
 1. Enable pages in the [pages settings](https://github.com/brckd/pages/settings/pages).
-2. Uncomment the push event in the [`deploy.yml`](./.github/workflows/deploy.yml) workflow to enable it.
+2. Uncomment the push event in the [`deploy.yml`](./.github/workflows/deploy.yml) workflow to enable
+   it.

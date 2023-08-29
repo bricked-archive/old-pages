@@ -4,3 +4,5 @@ node_modules/
 # build
 dist/
 tsconfig.tsbuildinfo
+CHANGELOG.md
+LICENSE.md
