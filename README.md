@@ -6,6 +6,10 @@
 
 My personal website.
 
+> [!Warning]
+> This project has been archived, as I found it difficult to start with Astro from scratch.
+> I instead created a new project from a template, which you can find [here](github.com/brckd/pages).
+
 ## Deploy
 
 Set the `SITE` environment variable to the url of the deployment.
